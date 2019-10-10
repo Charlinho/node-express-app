@@ -9,6 +9,6 @@ The purpose of this project is to proviode a working example of a server for any
 
 ## Static App
 
-Put your html/css/js files in `dist` folder.
+Put your html/css/js files in `./dist` folder.
 
 Enjoy!
